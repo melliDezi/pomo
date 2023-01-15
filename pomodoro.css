@@ -21,6 +21,10 @@ background-repeat: no-repeat;
 
 
 background-color: #fff;
+ 
+ /*moved it all the way up so we can see it in notio*/
+ 
+margin-top: -256px;
 
 }
  
